@@ -60,5 +60,10 @@ public class NodoLista {
     public void setAlmacen(String almacen) {
         this.almacen = almacen;
     }
+    
+    public String getData(){ 
+        String Data = null;
+        return Data;
+    }
 
 }
