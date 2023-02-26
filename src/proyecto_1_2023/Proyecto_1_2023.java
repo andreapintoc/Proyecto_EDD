@@ -16,7 +16,7 @@ public class Proyecto_1_2023 {
      */
     public static void main(String[] args) {
         ListaProductos productos = new ListaProductos();
-        Interfaz1 ventana = new Interfaz1();
+        archivoTXT ventana = new archivoTXT();
         ventana.setVisible(true);
         
     }
